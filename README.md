@@ -22,5 +22,7 @@ To run:  (see /q switch to request a different output)
 
 
 Notes:
+
     -- This was written on a mac with VSCode but should be usable on a windows system. (not tested on windows)
+    
     -- This is a framework dependent deployment and relies on the consumer to have .Net5.0 installed to build and run
