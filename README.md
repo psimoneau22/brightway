@@ -1,8 +1,8 @@
-To build:
+#To build:#
 
 `dotnet publish`
 
-To run:  (see /q switch to request a different output)
+#To run:  (see /q switch to request a different output)#
 
 (List all toppings and the count each one was ordered)
 
@@ -21,7 +21,7 @@ To run:  (see /q switch to request a different output)
 `dotnet ./bin/Debug/net5.0/publish/pizza.dll /q ListCombinations /top 20`
 
 
-Notes:
+#Notes:#
 
     -- This was written on a mac with VSCode but should be usable on a windows system. (not tested on windows)
     
